@@ -1,0 +1,17 @@
+{
+  "name": "ᴜꜱᴅᴛ",
+  "symbol": "ᴜꜱᴅᴛ",
+  "decimals": 6,
+  "image": "./logo.svg",
+  "description": "",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Stablecoin"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    }
+  ]
+}
