@@ -1,9 +1,8 @@
 {
   "name": "STABLE VALUE",
   "symbol": "SVUSD",
-  "decimals": 6,
   "image": "https://raw.githubusercontent.com/EasyEnd/metadata_usdt/main/logo.png",
-  "description": "",
+  "description": "SVUSD is a Solana stable-value token.",
   "attributes": [
     {
       "trait_type": "Category",
